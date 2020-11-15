@@ -1,0 +1,92 @@
+0.000002 - Simulator program starting
+0.000028 - OS: preparing process 1
+0.000034 - OS: starting process 1
+0.000037 - Process 1: memory allocated at 0x000000000
+0.000043 - Process 11: start processing action
+0.048046 - Process 1: interrupt processing action
+0.048096 - Process 1: start hard drive input on HDD 0
+0.048220 - Process 1: end hard drive input
+0.048235 - Process 1: start printer output on PRNTR 0
+0.048366 - Process 1:end printer output
+0.048377 - Process 11: start processing action
+0.156381 - Process 1: interrupt processing action
+0.156459 - Process 11: start processing action
+0.264470 - Process 1: interrupt processing action
+0.264570 - Process 1: start keyboard input
+0.289663 - Process 1: end keyboard input
+0.289718 - Process 11: start processing action
+0.433723 - Process 1: interrupt processing action
+0.433786 - Process 1: start hard drive output on HDD 0
+0.433983 - Process 1: end hard drive output
+0.434002 - Process 1: memory allocated at 0x000000080
+0.434022 - Process 1: start hard drive output on HDD 1
+0.434077 - Process 1: end hard drive output
+0.434091 - Process 11: start processing action
+0.494095 - Process 1: interrupt processing action
+0.494152 - Process 1: start hard drive input on HDD 1
+0.494219 - Process 1: end hard drive input
+0.494255 - Process 1: start printer output on PRNTR 1
+0.494292 - Process 1:end printer output
+0.494305 - Process 11: start processing action
+0.626309 - Process 1: interrupt processing action
+0.626362 - Process 11: start processing action
+0.638368 - Process 1: interrupt processing action
+0.638404 - Process 1: start printer output on PRNTR 2
+0.638477 - Process 1:end printer output
+0.638498 - Process 1: start monitor input
+0.788572 - Process 1: end monitor input
+0.788618 - Process 11: start processing action
+0.920625 - Process 1: interrupt processing action
+0.920705 - Process 11: start processing action
+1.088710 - Process 1: interrupt processing action
+1.088784 - Process 1: memory allocated at 0x000000100
+1.088810 - Process 1: memory allocated at 0x000000180
+1.088815 - Process 11: start processing action
+1.136819 - Process 1: interrupt processing action
+1.136901 - End process 1
+1.136910 - OS: preparing process 2
+1.136915 - OS: starting process 2
+1.136919 - Process 12: start processing action
+1.148923 - Process 2: interrupt processing action
+1.148964 - Process 2: start printer output on PRNTR 3
+1.149051 - Process 2:end printer output
+1.149070 - Process 1: start monitor input
+1.299129 - Process 1: end monitor input
+1.299193 - Process 12: start processing action
+1.431215 - Process 2: interrupt processing action
+1.431267 - Process 12: start processing action
+1.599277 - Process 2: interrupt processing action
+1.599329 - Process 2: memory allocated at 0x000000200
+1.599340 - Process 2: start hard drive input on HDD 0
+1.599410 - Process 2: end hard drive input
+1.599418 - Process 2: start printer output on PRNTR 0
+1.599463 - Process 2:end printer output
+1.599477 - Process 12: start processing action
+1.707485 - Process 2: interrupt processing action
+1.707531 - Process 12: start processing action
+1.815538 - Process 2: interrupt processing action
+1.815581 - Process 2: start keyboard input
+1.840664 - Process 2: end keyboard input
+1.840706 - Process 12: start processing action
+1.984711 - Process 2: interrupt processing action
+1.984754 - Process 1: start hard drive output on HDD 0
+1.984844 - Process 2: end hard drive output
+1.984863 - Process 2: memory allocated at 0x000000280
+1.984882 - OS: process 2 completed
+1.984886 - Simulator program ending
+1.984890 - OS: preparing process 3
+1.984895 - OS: starting process 3
+1.984899 - Process 13: start processing action
+1.996915 - Process 3: interrupt processing action
+1.996931 - Process 3: start printer output on PRNTR 1
+1.997018 - Process 3:end printer output
+1.997031 - Process 1: start monitor input
+2.147114 - Process 1: end monitor input
+2.147157 - Process 13: start processing action
+2.279162 - Process 3: interrupt processing action
+2.279209 - Process 13: start processing action
+2.447223 - Process 3: interrupt processing action
+2.447309 - Process 3: memory allocated at 0x000000300
+2.447341 - OS: process 3 completed
+2.447346 - Simulator program ending
+2.447352 Invalid Descriptor 
